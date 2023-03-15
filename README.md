@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-J-Code
-- 👀 I’m interested in Kotlin, SQL
-- 🌱 I’m currently learning Kotlin, SQL
+- 👀 I’m interested in Kotlin, Android
+- 🌱 I’m currently learning Kotlin, Android
 
 <!---
 S-J-Code/S-J-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
